@@ -11,6 +11,9 @@ together, and the design decisions that have been made.
 [Guides](guides/): Step-by-step configuration and usage guides for
 administrators and developers.
 
+- [OSAC Networking Manager Provider Guide](guides/admin/network-manager-provider-guide.md):
+  implement, register, and verify a provider's Fabric or Kubernetes Manager.
+
 ## Introduction
 
 There is a worldwide trend towards Sovereign AI Clouds (SACs), where countries
